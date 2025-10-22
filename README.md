@@ -29,7 +29,7 @@ The **Stock Data Query Engine** is a Python-based tool for analyzing stock marke
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/stock-data-query-engine.git
+   git clone https://github.com/saklinhub/PricePoint-Stock_Data_Query_Engine.git
    cd stock-data-query-engine
 
 2. **Install Dependencies**:
